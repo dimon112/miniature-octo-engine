@@ -1,2 +1,2 @@
-# miniature-octo-engine
+# sand-storm mod
 My first mod
